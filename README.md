@@ -1,5 +1,6 @@
-## 👋 Hello! I'm Nrq
+##                                      👋 Hello! I'm Nrq
 ![Profile views](https://komarev.com/ghpvc/?username=nrqqq&label=Profile%20views&color=0e75b6&style=flat)
+##                 Computer science enthusiast | Learning and building things.
 <!--
 **nrqqq/nrqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
